@@ -1,0 +1,9 @@
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe.config
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.exe
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\bin\Debug\Windows Calculator.pdb
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csproj.GenerateResource.Cache
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.exe
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.pdb
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows_Calculator.Form1.resources
+C:\Users\Geeek\Desktop\Windows Calculator\Windows Calculator\obj\Debug\Windows Calculator.csprojResolveAssemblyReference.cache
